@@ -1,5 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
 <p align="left">👋 Hi, I’m Ali Ashour — a Software Testing Engineer driven by a deep commitment to delivering exceptional software quality. I bring hands-on experience in both manual and automated testing, with a focus on enhancing performance, reliability, and user satisfaction. From API testing to performance analysis and automation, I work with tools like Selenium, Postman, Jira, Jenkins, and more to ensure thorough coverage and precision.<br><br>🐞 Each issue I uncover is a stepping stone toward a more refined and robust user experience. I approach testing with strategy, care, and the goal of continuous improvement.<br><br>Looking to connect with software testing engineer who’s all-in on quality and passionate about precision? I’d love to be part of the conversation.</p>
 
@@ -40,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ali-ashour-765123355" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-ashour-765123355/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/201007346184" target="_blank">
